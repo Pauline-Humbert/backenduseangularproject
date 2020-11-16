@@ -1,7 +1,7 @@
 	node {
 	
 		stage('SCM'){
-			git 'https://gitlab.com/PaulineHumbert/backenduseangularproject'
+			git 'https://github.com/Pauline-Humbert/backenduseangularproject'
 		}
 	
 		stage('Compile') {
